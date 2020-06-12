@@ -297,3 +297,4 @@ public class SnakeModel extends GameModel {
 	}
 
 }
+
