@@ -20,3 +20,4 @@ public class GameOverException extends Exception {
 		return this.score;
 	}
 }
+
